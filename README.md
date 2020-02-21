@@ -1,7 +1,8 @@
 # StockApp
 
-Stock app contains the data about the stocks like SNAP, VOD.L AND TWTR in Json format whixh will bw displayed in a table.
-This app provides a search feature to search the data wrt stocks individually and together by comma separeted values.
+Stock app contains the data about the stocks like SNAP, VOD.L AND TWTR in JSON format which will bw displayed in a table.
+All the data extracted from the URL by hitting a HTTP request to fetch the data.Returned response is in form of JSON which is used to build the table.
+This app provides SEARCH FEATURE to search the data wrt stocks individually and together by comma separeted values.
 
 
 ## Installation
